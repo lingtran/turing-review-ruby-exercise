@@ -6,7 +6,7 @@ require_relative 'review_nesting'
 # It is okay to pass tests using #each first, and then refactor
 # using a different enumerable.
 
-# The collection you're working with lives in `./hot_ones.rb` and is called `hot_ones_show`.
+# The collection you're working with lives in `./review_nesting.rb` and is called `hot_ones_show`.
 # Flag any error in the exercise and you can provide feedback too!
 # Consult the Ruby docs as needed.
 
