@@ -1,7 +1,7 @@
 def hot_ones_show
     {
-        host: 'Sean Evans',
-        creators: ['Christopher Schonberge', 'Sean Evans'],
+        host: "Sean Evans",
+        creators: ["Christopher Schonberge", "Sean Evans"],
         producers: ["First We Feast", "Complex Media"],
         description: "It's the [interview-based] show with hot questions and even hotter wings.",
         total_seasons: 17,
