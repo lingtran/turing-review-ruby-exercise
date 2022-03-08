@@ -77,5 +77,5 @@ Please check them out - you'll learn how to use `binding.pry` to quickly test id
 
 ----
 
-### Unrelated Trivia
-In case you are wondering, what is "Hot Ones", the inspiration for the data used for this exercise? [Here](https://en.wikipedia.org/wiki/Hot_Ones) is the Wikipedia page for the show.
+### Sidebar: trivia that is not important for this dojo
+In case you are wondering, what is "Hot Ones", the inspiration for the data used for this exercise? [Here](https://en.wikipedia.org/wiki/Hot_Ones) is the Wikipedia page for the show. It is an interview-based show where the host asks questions as they and their guest(s) eat hot wings in increasingly spicy order. The [Scoville scale](https://en.wikipedia.org/wiki/Scoville_scale) provides an indication of spiciness for the chilli peppers used in the hot sauce.
