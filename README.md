@@ -27,7 +27,7 @@ $ git clone https://github.com/lingtran/turing-review-ruby-exercise.git
 `$ rspec`
 
 
-----
+---
 
 # General tips
 
@@ -74,3 +74,8 @@ Please check them out - you'll learn how to use `binding.pry` to quickly test id
 * `keys`
 * `values`
 * `length/size`
+
+----
+
+### Unrelated Trivia
+In case you are wondering, what is "Hot Ones", the inspiration for the data used for this exercise? [Here](https://en.wikipedia.org/wiki/Hot_Ones) is the Wikipedia page for the show.
